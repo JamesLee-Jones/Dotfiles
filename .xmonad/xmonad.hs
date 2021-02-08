@@ -27,7 +27,7 @@ import qualified Data.Map        as M
 -- The preferred terminal program, which is used in a binding below and by
 -- certain contrib modules.
 --
-myTerminal      = "alacritty"
+myTerminal      = "kitty"
 myTextEditor    = "emacs"
 
 -- Whether focus follows the mouse pointer.
