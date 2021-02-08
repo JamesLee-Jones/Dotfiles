@@ -1,0 +1,101 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1612798207825">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/javathreads_jl8320/src/museumvisit/MuseumSite.java" timestamp="1612790274859">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/java/javathreads_jl8320/src/museumvisit/Visitor.java" timestamp="1612798275898">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/java/javathreads_jl8320/src/museumvisit/Turnstile.java" timestamp="1612796421475">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/java/javathreads_jl8320/src/museumvisit/ExhibitionRoom.java" timestamp="1612790400433">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/java/javathreads_jl8320/src/museumvisit/Museum.java" timestamp="1612798294022">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="12" />
+        <mark key="^" line="37" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1612790377738">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="58" column="23" filename="$USER_HOME$/java/javathreads_jl8320/src/museumvisit/Museum.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>;</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="0" type="4">
+        <text>(new ExhibitionRoom(&quot;Exhibition Room&quot;, 10))</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFNldDxNdXNldW1TaXRlPiBzaXRlcyA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBtdXNldW07Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBtdXNldW07Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

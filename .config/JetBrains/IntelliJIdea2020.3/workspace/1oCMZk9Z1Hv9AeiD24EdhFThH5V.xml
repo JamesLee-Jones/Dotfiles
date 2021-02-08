@@ -1,0 +1,473 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javathreads_jl8320" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/museumvisit/MuseumSite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/museumvisit/ExhibitionRoom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <folding>
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/museumvisit/Exit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/museumvisit/Turnstile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/museumvisit/Museum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3255#3256#0" expanded="true" />
+                <element signature="e#3280#3281#0" expanded="true" />
+                <element signature="e#3307#3308#0" expanded="true" />
+                <element signature="e#3328#3329#0" expanded="true" />
+                <element signature="e#3367#3368#0" expanded="true" />
+                <element signature="e#3389#3390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/museumvisit/Visitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#1316#1317#0" expanded="true" />
+                <element signature="e#2177#2178#0" expanded="true" />
+                <element signature="e#2444#2445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/museumvisit/ExhibitionRoomTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/museumvisit/MuseumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="94" column="38" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/museumvisit/TestSuiteRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/museumvisit/TurnstileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/museumvisit/MuseumSite.java" />
+      <option value="$PROJECT_DIR$/src/museumvisit/ExhibitionRoom.java" />
+      <option value="$PROJECT_DIR$/src/museumvisit/Turnstile.java" />
+      <option value="$PROJECT_DIR$/src/museumvisit/Visitor.java" />
+      <option value="$PROJECT_DIR$/src/museumvisit/Museum.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javathreads_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathreads_jl8320" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javathreads_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathreads_jl8320" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javathreads_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathreads_jl8320" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="museumvisit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javathreads_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathreads_jl8320" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javathreads_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javathreads_jl8320" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="museumvisit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MuseumTest - 2021.02.08 at 14h 52m 16s.xml">
+      <configuration name="MuseumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MuseumTest - 2021.02.08 at 14h 52m 23s.xml">
+      <configuration name="MuseumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExhibitionRoomTest - 2021.02.08 at 14h 52m 33s.xml">
+      <configuration name="ExhibitionRoomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TurnstileTest - 2021.02.08 at 14h 52m 41s.xml">
+      <configuration name="TurnstileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TurnstileTest - 2021.02.08 at 14h 52m 53s.xml">
+      <configuration name="TurnstileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TurnstileTest - 2021.02.08 at 14h 52m 59s.xml">
+      <configuration name="TurnstileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TurnstileTest - 2021.02.08 at 14h 53m 12s.xml">
+      <configuration name="TurnstileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TurnstileTest - 2021.02.08 at 14h 53m 18s.xml">
+      <configuration name="TurnstileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MuseumTest - 2021.02.08 at 15h 00m 07s.xml">
+      <configuration name="MuseumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MuseumTest - 2021.02.08 at 15h 00m 32s.xml">
+      <configuration name="MuseumTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11319000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2426869" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32936078" />
+      <window_info id="Commit" order="3" visible="true" weight="0.32936078" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3234649" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3991228" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="6" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="14" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="15" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32936078" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="122" key="#Project_Structure" timestamp="1612789923772">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="656" y="122" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1612789923772" />
+    <state width="923" height="336" key="GridCell.Tab.0.bottom" timestamp="1612799644481">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644481" />
+    <state width="923" height="336" key="GridCell.Tab.0.center" timestamp="1612799644480">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644480" />
+    <state width="923" height="336" key="GridCell.Tab.0.left" timestamp="1612799644479">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644479" />
+    <state width="923" height="336" key="GridCell.Tab.0.right" timestamp="1612799644480">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644480" />
+    <state width="923" height="336" key="GridCell.Tab.1.bottom" timestamp="1612799644483">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644483" />
+    <state width="923" height="336" key="GridCell.Tab.1.center" timestamp="1612799644482">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644482" />
+    <state width="923" height="336" key="GridCell.Tab.1.left" timestamp="1612799644481">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644481" />
+    <state width="923" height="336" key="GridCell.Tab.1.right" timestamp="1612799644482">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="923" height="336" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1612799644482" />
+    <state x="494" y="201" width="1024" height="815" key="SettingsEditor" timestamp="1612791257104">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="494" y="201" width="1024" height="815" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1612791257104" />
+    <state x="779" y="281" key="Vcs.Push.Dialog.v2" timestamp="1612798349668">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="779" y="281" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1612798349668" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jrt:///usr/lib/jvm/java-15-openjdk!/java.base/java/lang/AssertionError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/ExhibitionRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/Exit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/MuseumSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/Turnstile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/museumvisit/ExhibitionRoomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/museumvisit/TestSuiteRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/museumvisit/TurnstileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#2177#2178#0" expanded="true" />
+            <element signature="e#2444#2445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/museumvisit/Museum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3255#3256#0" expanded="true" />
+            <element signature="e#3280#3281#0" expanded="true" />
+            <element signature="e#3307#3308#0" expanded="true" />
+            <element signature="e#3328#3329#0" expanded="true" />
+            <element signature="e#3367#3368#0" expanded="true" />
+            <element signature="e#3389#3390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/museumvisit/MuseumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="94" column="38" selection-start-line="94" selection-start-column="38" selection-end-line="94" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javathreads_jl8320</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

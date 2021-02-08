@@ -1,0 +1,163 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ssq/SingleServerQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ssq/SingleServerQueueCompletions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/ssq/SingleServerQueueCompletions.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javadiscreteeventsimulation_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javadiscreteeventsimulation_jl8320" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javadiscreteeventsimulation_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javadiscreteeventsimulation_jl8320" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javadiscreteeventsimulation_jl8320" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javadiscreteeventsimulation_jl8320" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ssq" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22392638" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32872504" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Endpoints" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="48" width="1024" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612650862399">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="0" y="48" width="1024" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.768@0.0.1024.768" timestamp="1612650862399" />
+    <state x="626" y="306" key="FileChooserDialogImpl" timestamp="1612786050589">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="626" y="306" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1612786050589" />
+    <state width="974" height="186" key="GridCell.Tab.0.bottom" timestamp="1612650886207">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="974" height="186" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1612650886207" />
+    <state width="974" height="186" key="GridCell.Tab.0.center" timestamp="1612650886204">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="974" height="186" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1612650886204" />
+    <state width="974" height="186" key="GridCell.Tab.0.left" timestamp="1612650886203">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="974" height="186" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1612650886203" />
+    <state width="974" height="186" key="GridCell.Tab.0.right" timestamp="1612650886205">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="974" height="186" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1612650886205" />
+    <state x="327" y="168" key="SettingsEditor" timestamp="1612708522349">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="327" y="168" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1612708522349" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ssq/SingleServerQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ssq/SingleServerQueueCompletions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
