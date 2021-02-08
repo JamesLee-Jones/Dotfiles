@@ -65,6 +65,9 @@ myWorkspaces    = ["main","web"] ++ map show [3..9]
 myNormalBorderColor  = "#dddddd"
 myFocusedBorderColor = "#ff0000"
 
+windowCount :: X (Maybe String)
+windowCount = gets $ Just . show . length . W.integrate' . W.stack . W.workspace . W.current . windowset
+
 
 ------------------------------------------------------------------------
 -- Key bindings. Add, modify or remove key bindings here.
@@ -297,6 +300,7 @@ main = do
                 , ppTitle   = xmobarColor "#b3afc2" "" . shorten 60
                 , ppSep     = "<fc=#666666> <fn=1>|</fn> </fc>"
                 , ppUrgent  = xmobarColor "#C45500" "" . wrap "!" "!"
+                , ppExtras  = [windowCount]
                 , ppOrder   = \(ws:l:t:ex) -> [ws,l]++ex++[t]
                 },
         startupHook        = myStartupHook
