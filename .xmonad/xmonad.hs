@@ -288,7 +288,7 @@ main = do
 
       -- hooks, layouts
 
-        layoutHook         = spacingRaw True (Border 0 6 6 6) True (Border 6 6 6 6) True $ myLayout,
+        layoutHook         = spacingRaw False (Border 0 6 6 6) True (Border 6 6 6 6) True $ myLayout,
         manageHook         = myManageHook,
         handleEventHook    = myEventHook,
         logHook            = workspaceHistoryHook <+> myLogHook <+> dynamicLogWithPP xmobarPP
